@@ -1,4 +1,6 @@
-public class Product implements Taxable {
+package Task_3;
+
+public class Product {
     int pid;
     double price;
     int quantity;

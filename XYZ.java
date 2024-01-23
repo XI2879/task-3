@@ -1,6 +1,6 @@
 package Task_3;
 
-import Task_2.Product;
+import Task_3.Product;
 import Task_3.Employee;
 
 public class XYZ {
